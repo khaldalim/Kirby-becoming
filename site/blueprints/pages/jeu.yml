@@ -1,0 +1,47 @@
+title: Notre jeu
+
+
+options:
+  changeStatus: true
+  changeTemplate:
+    - contact
+    - default
+    - culture_talents
+    - faire_mieux
+    - home
+    - jeu
+    - mentions
+    - nous
+    - publications
+    - secret_sauce
+    - secret_sauce_single
+    - vous
+    - vous_single
+    - voyagerz
+
+
+tabs:
+  content:
+    icon: text
+    label: Content
+    columns:
+      main:
+        width: 2/3
+        sections:
+          fields:
+            type: fields
+            fields:
+              sub_title:
+                label: Sur titre
+                type: text
+                size: huge
+              title_jeu:
+                label: Titre
+                type: text
+                size: huge
+              textarea:
+                label: Contenu
+                type: textarea
+
+
+  seotab : seo

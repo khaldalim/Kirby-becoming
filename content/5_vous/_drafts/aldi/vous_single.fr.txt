@@ -1,0 +1,38 @@
+Title: ALDI
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: ALDI
+
+----
+
+Type-vous-single: COM - pack
+
+----
+
+Textarea:
+
+DÉVELOPPER L’IMPACT, LA PRÉFÉRENCE ET LES VENTES DES PRODUITS ALDI
+.becoming accompagne depuis 2015 le distributeur en design packaging (alimentaire et non alimentaire) de ses marques.
+
+Naming gamme, packagings… de la création à l’exécution en passant par l'achat d'art, un seul objectif : magnifier le savoir-faire et les recettes des produits Aldi.
+
+----
+
+Image-hover: 
+
+----
+
+Image: 
+
+----
+
+Categories: communication
+
+----
+
+Uuid: SNmSktD6G8ZPiBbq

@@ -1,0 +1,33 @@
+Title: The voyagerz
+
+----
+
+Sub-title: the voyagerz
+
+----
+
+Title-voyagerz: La première agence <br> de voyage dans <br> le Metavers
+
+----
+
+Textarea:
+
+Notre objectif : vous aider à comprendre enfin ce qu’est le Metavers,
+et ce qu’il représente pour votre marque/entreprise/institution.
+Dans la quiétude de votre canapé ou de votre bureau, notre équipage vous emmène en Live pendant 2h30, explorer pas moins de 4 destinations emblématiques des métavers.
+
+----
+
+Image: 
+
+----
+
+Title-nous: La première agence de voyage dans le Metavers
+
+----
+
+Uuid: Abfjztl5CK15cCfr
+
+----
+
+Text: 

@@ -1,0 +1,334 @@
+@import "variables.scss";
+
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -10%, 0);
+  }
+  to {
+    opacity: 1;
+
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes rotateImg {
+  from {
+    opacity: 0;
+    transform: rotate(0deg);
+  }
+  to {
+    opacity: 1;
+
+    transform: rotate(-3deg);
+  }
+}
+
+
+#vous {
+  width: 100%;
+  position: relative;
+  height: -webkit-fill-available;
+  display: flex;
+  background: #EAE9E4;
+  height: 100%;
+  .content {
+
+    flex: 1 1 50%;
+    display: flex;
+    overflow: auto;
+    align-items: center;
+    scrollbar-width: none;
+    .cont {
+      padding: 0px 59px;
+
+      h1 {
+        margin: 0;
+        font-family: $font-1;
+        font-weight: 800;
+        font-size: $size-1;
+        line-height: 54px;
+        position: relative;
+
+        &:after{
+          content: '';
+          position: absolute;
+          width: 17px;
+          height: 17px;
+          background-color: $green-fluo;
+          border-radius: 50px;
+          left: 25%;
+          bottom: 30px;
+        }
+      }
+
+
+      h2 {
+
+        margin: 0;
+        margin-bottom: 21px;
+        font-family: $font-3;
+        font-size: 24px;
+        font-weight: 400;
+      }
+
+      p {
+        font-family: $font-1;
+        font-style: normal;
+        font-size: 1rem;;
+        line-height: 21px;
+      }
+    }
+  }
+
+  .references {
+    flex: 1 1 50%;
+    border-left: 1px solid rgb(0 0 0 / 50%);
+    overflow-x: overlay;
+    scrollbar-width: none;
+    .selector {
+      padding: 45px 0;
+      display: flex;
+      border-bottom: 1px solid rgb(0, 0, 0, 0.5);
+      align-items: center;
+      justify-content: space-around;
+
+      ul {
+        display: flex;
+        padding: 0;
+        width: 100%;
+        list-style: none;
+        justify-content: space-around;
+
+        li {
+          text-align: center;
+
+          a {
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 1rem;;
+            line-height: 18px;
+            color: #000000;
+
+            div {
+              transition: all 0.3s;
+              width: 59px;
+              display: flex;
+              height: 59px;
+              justify-content: center;
+              align-items: center;
+              border: 1px solid;
+              font-size: 22px;
+              border-radius: 50px;
+              font-weight: 800;
+
+              margin-bottom: 1rem;;
+            }
+          }
+
+          a[data-filter="entrepreneurship"]:hover div, a.active[data-filter="entrepreneurship"] div {
+            background-color: $green;
+          }
+
+          a[data-filter="tech"]:hover div, a.active[data-filter="tech"] div {
+            background-color: $pink;
+          }
+
+          a[data-filter="communication"]:hover div, a.active[data-filter="communication"] div {
+            background-color: $blue;
+          }
+        }
+      }
+    }
+
+    .list-references {
+      ul {
+        padding: 0;
+        list-style: none;
+        margin: 0;
+
+
+        li {
+          transition: all 0.3s;
+
+          border-bottom: 1px solid rgb(0, 0, 0, 0.5);
+
+
+          a {
+            align-items: center;
+            gap: 20px;
+            padding: 13px 20px;
+            display: flex;
+            text-decoration: none;
+            justify-content: space-between;
+            color: #000000;
+            font-family: $font-1;
+            font-style: normal;
+
+            font-size: 26px;
+
+
+            strong {
+              font-weight: 800;
+            }
+
+
+          }
+
+        }
+
+        li:hover {
+          background-color: #ffffff;
+        }
+      }
+
+      .categories {
+        display: flex;
+        gap: 12px;
+
+        .cat {
+          background-color: #eae9e4;
+          transition:all 0.3s;
+          width: 40px;
+          border: solid 1px;
+          display: flex;
+          border-radius: 50px;
+          text-align: center;
+          font-weight: 800;
+          font-size: 18px;
+          height: 40px;
+          align-items: center;
+          justify-content: center;
+          //margin-right: 12px;
+        }
+
+        .cat.active[data-cat='entrepreneurship'] {
+          background-color: $green;
+        }
+
+        .cat.active[data-cat='tech'] {
+          background-color: $pink;
+        }
+
+        .cat.active[data-cat='communication'] {
+          background-color: $blue;
+        }
+
+        .cat:last-child {
+          margin-right: 0
+        }
+      }
+
+    }
+
+
+  }
+
+  .hover-container {
+    position: absolute;
+    right: 35px;
+    top: 150px;
+
+
+    img {
+      opacity: 0;
+      aspect-ratio: 1/1;
+      max-width: 400px;
+      transition: opacity ease-in 0.3s;
+      box-shadow: 34px 24px 20px -10px rgba(0, 0, 0, 0.25);
+
+      object-fit: cover;
+    }
+
+
+  }
+  .hover-container.active{
+    animation: fadeInDown  0.3s ease-in both;
+    img{
+      opacity: 1;
+      animation: rotateImg  0.3s ease-in both;
+    }
+  }
+
+}
+
+
+@media screen and (max-width: 900px) {
+  #vous {
+    height: auto;
+    flex-direction: column;
+
+    .content {
+      .cont {
+        padding: 29px 29px 0 29px;
+
+        h1 {
+          line-height: initial;
+          font-size: 24px;
+        }
+
+        h2 {
+          padding-top: 0;
+          border-top: 0px;
+          font-size: 18px;
+          line-height: initial;
+        }
+
+        p {
+          font-size: 14px;
+        }
+      }
+
+      .hover-container {
+        display: none;
+      }
+    }
+
+    .references {
+      .selector{
+        padding: 15px 0;
+        ul li a {
+          margin-bottom: 10px;
+          div{
+            width: 45px;
+            height: 45px;
+            font-size: 18px;
+            margin-bottom:5px;
+          }
+        }
+      }
+      .list-references {
+        .categories .cat{
+          font-size: 15px;
+          height: 30px;
+          width: 30px;
+        }
+        ul li a {
+          flex-direction: column;
+          align-items: flex-start;
+          font-size: 1rem;
+          gap: 10px;
+          display: flex;
+        }
+
+      }
+      .selector ul {
+        flex-direction: row;
+        align-items: center;
+        display: flex;
+        gap: 15px;
+        margin: 0;
+        flex-wrap: wrap;
+      }
+    }
+  }
+}
+
+
+
+

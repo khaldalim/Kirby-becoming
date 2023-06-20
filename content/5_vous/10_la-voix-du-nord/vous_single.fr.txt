@@ -1,0 +1,184 @@
+Title: La voix du nord
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: La voix du nord
+
+----
+
+Type-vous-single: positionnement - advertising - digital
+
+----
+
+Textarea:
+
+Pour être en parfaite cohérence avec sa vision, La Voix du Nord a fait appel à .becoming pour challenger son image de marque et booster sa notoriété.
+
+Il en ressort une campagne forte avec une signature "Donnons de la voix"" en résonance avec l'Histoire et l'engagement éditorial du Titre.
+
+Une campagne déployée en DOOH, en film et en digital,... Et déclinée pour prendre la parole sur leurs thématiques fortes : élections, harcèlement scolaire, apprentissage,...
+
+----
+
+Image-hover: - file://uAW3dHiYrFwLrBq3
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://ztSyrqYshIQm5MHF
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://PXbz03UVYL9bS2Ua
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://TzqQNCT66c7o0Kin
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://SpbGsMpqZF5VpvCs
+  fichier_video: [ ]
+
+----
+
+Categories: communication, entrepreneurship, tech
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: dAEPQRvvzSJg24Ck

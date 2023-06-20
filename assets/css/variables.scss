@@ -1,0 +1,24 @@
+
+$font-1: "Poppins", sans-serif;
+$font-2: "Montserrat", sans-serif;
+$font-3: "Merriweather", sans-serif;
+
+//colors
+$green-fluo: #00FF00;
+$green: #B2D0BB;
+$pink: #FCE1DA;
+$blue: #A3D0CE;
+$beige: #EAE9E4;
+
+$size-1: 44px;
+$size-1-small: 28px;
+
+@keyframes slideBottom {
+  0%  {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

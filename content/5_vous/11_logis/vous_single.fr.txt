@@ -1,0 +1,178 @@
+Title: Logis
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Logis
+
+----
+
+Type-vous-single: advertising - media
+
+----
+
+Textarea:
+
+**POUR UN MONDE PLUS LOCAL AVEC LE GROUPE LOGIS HÔTEL**
+
+.becoming accompagne le groupe Logis Hôtels dans l’affirmation de son territoire et l’installation de sa signature en déployant son dispositif média : création et diffusion de spots publicitaires et sponsoring TV (Scènes de Ménages sur M6).
+
+----
+
+Image-hover: - file://gPiqsPYSt6Vbp2Z2
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://Vi625MeXh6vaimHH
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://9hknu4cxvkGKfCIX
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://OydSQXaDTzjPkodp
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: aQpHvKd6fkn9q606

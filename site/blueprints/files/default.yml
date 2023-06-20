@@ -1,0 +1,11 @@
+title: Default File
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      fields:
+        type: fields
+        fields:
+          alt:
+            type: text

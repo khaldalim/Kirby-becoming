@@ -1,0 +1,45 @@
+Title: Contact
+
+----
+
+Sub-title: contact
+
+----
+
+Title-contact: un groupe, 3 spots
+
+----
+
+Description: <span class="fluo">.becoming</span> est membre du <strong>réseau ICOM</strong> depuis + de 25 ans <br> et Présidence Europe
+
+----
+
+Addresses:
+
+- 
+  title_ville: 'Lille <span>Garage</span>'
+  description_ville: |
+    34 Boulevard Carnot
+    59800 LILLE
+    **lille@becoming-group.com**
+    **www.experience-garage.fr**
+- 
+  title_ville: Paris
+  description_ville: |
+    103 Boulevard Haussman
+    75008 PARIS
+    **paris@becoming-group.com**
+- 
+  title_ville: Bruxelles
+  description_ville: |
+    Rue Henri Evenepoelstraat 9
+    1030 BRUSSELS
+    **Brussels@becoming-group.com**
+
+----
+
+Uuid: FdT87x0PFwfdLTCW
+
+----
+
+Text: 

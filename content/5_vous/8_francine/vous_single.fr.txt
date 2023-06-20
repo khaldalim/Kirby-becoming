@@ -1,0 +1,198 @@
+Title: Francine
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Francine
+
+----
+
+Type-vous-single: advertising - social media
+
+----
+
+Textarea:
+
+**FAIRE DE FRANCINE UNE MARQUE DU QUOTIDIEN DE LA CUISINE**
+
+.becoming accompagne Francine pour faire de sa marque le porte-voix du fait-maison et de la cuisine de tous les jours. "On se retrouve en cuisine" est la nouvelle signature de la marque. Une plateforme de communication déployée en TV, en social media, sur son site et en marketing relationnel.
+
+----
+
+Image-hover: - file://1GUqkDQHXP0XOUFo
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://KJI0V0mjrTQ82Pwc
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://rHcUs8xM9axxuXcM
+  fichier_video: [ ]
+- 
+  illustration_video: [ ]
+  fichier_video:
+    - file://ICVSihdICoN9Yore
+- 
+  illustration_video:
+    - file://zaIw5ZBx0vWANTOy
+  fichier_video: [ ]
+- 
+  illustration_video: [ ]
+  fichier_video:
+    - file://NnEk0NmAFkHTse5H
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: cP0zRJrB9BwBu3tY
+
+----
+
+Addresses: 
+
+----
+
+Title-contact: 
+
+----
+
+Description: 

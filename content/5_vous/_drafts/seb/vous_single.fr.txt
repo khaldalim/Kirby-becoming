@@ -1,0 +1,37 @@
+Title: SEB
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Seb
+
+----
+
+Type-vous-single: COM
+
+----
+
+Textarea:
+
+**PARTENAIRE DU « MIEUX VIVRE » AVEC LE GROUPE SEB.**
+
+.becoming accompagne le Groupe Seb, la référence mondiale du petit équipement domestique, depuis 2014 : de la stratégie digitale globale jusqu’aux lancements produits à 360° en passant par la communication éditoriale.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: communication
+
+----
+
+Uuid: Vr027ETmmkTuSq8V

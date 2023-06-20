@@ -1,0 +1,37 @@
+Title: Supermarchés Match
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Supermarchés Match
+
+----
+
+Type-vous-single: ETUDES - COM, SOME
+
+----
+
+Textarea:
+
+**COMPRENDRE LE ""MIEUX MANGER"" ET Y SENSIBILISER**
+
+Accompagnement de l’enseigne dans sa définition du « mieux manger » grâce à des études qualitatives et quantitatives ainsi qu’à des ateliers de design thinking. Accompagnement de Match en social media sur Tik Tok pour capter les plus jeunes.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: communication
+
+----
+
+Uuid: K9Zru5SVVedux2t1

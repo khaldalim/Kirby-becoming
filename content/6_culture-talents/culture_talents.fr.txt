@@ -1,0 +1,46 @@
+Title: Culture & talents
+
+----
+
+Sub-title: culture & talents
+
+----
+
+Title-culture: notre raison d’être est d’améliorer la vie des gens
+
+----
+
+Textarea:
+
+Notre raison d’être est d’améliorer la vie des gens. Elle infuse notre culture.
+
+Nous n’avons pas la prétention de tout changer.
+
+Mais nous pouvons aider les marques à jouer un rôle, à rendre cette transition désirable, accessible, bénéfique, smart, heureuse, fun... et ainsi améliorer la vie des gens. 
+
+De plus, nous essayons de faire mieux aussi en tant qu’entreprise. 
+
+En 2022, en plus de la démarche RSE de la RH, nous avons mis en place le mécénat de compétences. En 2023, nous allons mesurer notre impact carbone, créer un score d’impact pour nous engager et mesurer nos progrès.
+
+Une culture faite d’utilité et de pragmatisme.
+
+----
+
+Image: - file://gdr4O2LEcybAAygg
+
+----
+
+Link:
+
+type: url
+value: https://www.welcometothejungle.com/fr
+text: nous rejoindre
+popup: true
+
+----
+
+Uuid: QivobK1h39FAjgPi
+
+----
+
+Text: 

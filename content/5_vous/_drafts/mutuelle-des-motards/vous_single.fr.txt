@@ -1,0 +1,39 @@
+Title: Mutuelle des motards
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Mutuelle des motards
+
+----
+
+Type-vous-single: TECH-INNO
+
+----
+
+Textarea:
+
+**ACCOMPAGNER LA MUTUELLE DES MOTARDS DANS LE PILOTAGE DE SON EXPÉRIENCE CLIENTS**
+
+.becoming a été choisi en 2018 (4 ans, à vérifier) par la Mutuelle des Motards pour l’accompagner dans le pilotage de l’expérience sociétaires et plus largement sur son projet d’une connaissance clients augmentée.
+
+Un dispositif de mesures à chaud et à froid permet de détecter les irritants et les points de force de la mutuelle. D’autres sujets viennent compléter le programme pour affiner, ajuster les plans d’action et donner aux études toute leur utilité.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: tech
+
+----
+
+Uuid: ziuscm0XUMIiDTx6

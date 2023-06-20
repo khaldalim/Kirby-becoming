@@ -1,0 +1,183 @@
+Title: Institut Curie
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Institut Curie
+
+----
+
+Type-vous-single: advertising - digital - social media
+
+----
+
+Textarea:
+
+**MOBILISER POUR LA RECHERCHE CONTRE LE CANCER**
+
+.becoming accompagne l’opération "Une jonquille contre le cancer" grâce à une nouvelle plateforme de communication : nouvelle Jonquille, campagne TV, affichage, influence, social media. Porteuse d'espoir, la jonquille appelle à la générosité. Une campagne désormais référente.
+
+----
+
+Image-hover: - file://EldseheXeCBQ8RkS
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://3DN8Tp9HsXQ6YLad
+  fichier_video:
+    - file://6dMSvq0fzARSoL95
+- 
+  illustration_video:
+    - file://5HPIw9HSnzg8Varh
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://kqyaEDWFU8AfG7a4
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://xkbUuz4X9chU5w6p
+  fichier_video: [ ]
+
+----
+
+Categories: communication, tech
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: dr40rBRCE5n1n9dI

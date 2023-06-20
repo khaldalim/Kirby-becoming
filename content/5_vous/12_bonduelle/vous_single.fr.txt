@@ -1,0 +1,188 @@
+Title: Bonduelle
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Bonduelle
+
+----
+
+Type-vous-single: relations presse - gestion de crise
+
+----
+
+Textarea:
+
+**FAIRE DE BONDUELLE LA RÉFÉRENCE MONDIALE DU BIEN-VIVRE PAR L’ALIMENTATION VÉGÉTALE**
+
+.becoming accompagne le groupe Bonduelle dans la construction de son image de marque corporate, sa stratégie RSE, ainsi que sa communication financière, économique et sa gestion de crise.
+
+.becoming supervise également le suivi & le conseil pour les BU, de la communication produits et des opérations médias B2B et B2C. Un partenariat qui dure depuis plus de 20 ans.
+
+----
+
+Image-hover: - file://P6OTHJkaoPkFKe7r
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://P6OTHJkaoPkFKe7r
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://kwwxwVPON8LN8vwU
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://wMRXCViUlqcfmNZu
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Image: 
+
+----
+
+Uuid: KkfJQX9S160YMY4Z
+
+----
+
+Video: 

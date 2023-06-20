@@ -1,0 +1,120 @@
+title: Vous single
+
+options:
+  changeStatus: true
+  changeTemplate:
+    - contact
+    - default
+    - culture_talents
+    - faire_mieux
+    - home
+    - jeu
+    - mentions
+    - nous
+    - publications
+    - secret_sauce
+    - secret_sauce_single
+    - vous
+    - vous_single
+    - voyagerz
+
+
+tabs:
+  content:
+    icon: text
+    label: Content
+    columns:
+      main:
+        width: 1/2
+        sections:
+          fields:
+            type: fields
+            fields:
+
+              sub_title:
+                label: Sur titre
+                type: text
+                size: huge
+
+              title_vous_single:
+                label: Titre
+                type: text
+                size: huge
+
+              type_vous_single:
+                label: Type de la référence
+                type: text
+
+              textarea:
+                label: Contenu
+                type: textarea
+
+
+
+
+      sidebar:
+        width: 1/3
+        sections:
+          fields_2:
+            type: fields
+            fields:
+              image_hover:
+                label: Image hover
+                type: files
+                multiple: false
+                query: page.images
+
+
+
+              illustration:
+                label: Illustration
+                type: structure
+                fields:
+                  illustration_video:
+                    label: Illustration
+                    type: files
+                    multiple: false
+                    query: page.images
+                  fichier_video:
+                    label: Fichier vidéo
+                    type: files
+                    multiple: false
+                    query: page.videos
+
+
+
+
+
+    #          image:
+    #            label: Fichier image
+    #            type: files
+    #            multiple: true
+    #            query: page.images
+
+
+
+
+
+
+              categories:
+                label: Categories
+                type: checkboxes
+                options:
+                  entrepreneurship: Entrepreneurship
+                  tech: Tech/Innovation
+                  communication: Communication
+
+
+  seotab : seo
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,270 @@
+Title: Nos contenus
+
+----
+
+Titre-podcasts: nos podcasts
+
+----
+
+Titre-pop: PoP by .becoming
+
+----
+
+Titre-etudes: nos etudes
+
+----
+
+Headline: Nos publications
+
+----
+
+Title-publications: on se glisse pour vous<br> dans le monde actuel
+
+----
+
+Wysiwyg: Se nourrir et s’inspirer pour mieux imaginer, concevoir, créer. Une marque de fabrique des équipes de .becoming. Une matière que nous transformons en contenus. Podcast, jeu, études, publications, laissez-vous transporter dans l’époque et ses insights.
+
+----
+
+Concerne: Les concernés
+
+----
+
+Audios:
+
+- 
+  name: ' épisode 1 : Lorem Ipsum'
+  audio:
+    - file://2uVmORoCpoB5wd67
+  sujet: ' Lorem Ipsum'
+- 
+  name: ' épisode 2 : Lorem Ipsum'
+  audio:
+    - file://7oHPFAm1OfUe8uzQ
+  sujet: Lorem Ipsum 2
+- 
+  name: Audio 3
+  audio:
+    - file://2uVmORoCpoB5wd67
+- 
+  name: Audio 4
+  audio:
+    - file://7oHPFAm1OfUe8uzQ
+
+----
+
+Title-publications-pop: POP, comme POP culture
+
+----
+
+Wysiwyg-pop:
+
+POP, une publication des équipes du Planning stratégique pour capter et partager l’époque, ses signaux plus ou moins faibles, le bruit de fond de la rue, de la société, de la consommation et des gens, d’abord et avant tout. 
+De la matière vivante à insights.
+
+----
+
+Pop-content:
+
+- 
+  illustration:
+    - file://1a11MKyuuxG79Hdx
+  link:
+    type: url
+    value: >
+      https://online.flippingbook.com/view/860888686/
+    popup: true
+- 
+  illustration:
+    - file://baTujiPLJB6PoBzV
+  link:
+    type: url
+    value: >
+      https://online.flippingbook.com/view/947333908/
+    popup: true
+
+----
+
+Title-publications-etudes: on se glisse pour vous dans le monde actuel
+
+----
+
+Wysiwyg-etudes: Notre team Research & Insights, en plus de ses études pour nos clients, nous alimente en données qui viennent compléter celles du planning stratégique. Les thèmes de ces études propriétaires respirent aussi l’air du temps, les préoccupations et les aspirations des gens.
+
+----
+
+Etudes-content:
+
+- 
+  illustration:
+    - file://ge8OmDKbN0WZJIQ0
+  pdf:
+    - file://KRP1g0j5cLWUi0vj
+- 
+  illustration:
+    - file://NdqXcoHwT2Tr06eh
+  pdf:
+    - file://2eTesplWaQqp7QZm
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Images-etudes:
+
+- file://7Fge6er1SiwjUYeZ
+- file://qn1xm05UW85QTjN6
+- file://zl3kAN5tSuGK5oZ8
+
+----
+
+Name: Les concernés
+
+----
+
+Subheadline: v
+
+----
+
+Pages:
+
+- page://Hsk6q6c6OqO4Brc1
+- page://vE3xqElBJFZ14Au9
+
+----
+
+Text: 
+
+----
+
+Uuid: Hsk6q6c6OqO4Brc1
+
+----
+
+Content: - [ ]

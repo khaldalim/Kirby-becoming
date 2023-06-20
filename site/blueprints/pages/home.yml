@@ -1,0 +1,60 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Home
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 🏠
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page status (the home page cannot be renamed or deleted by default)
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeStatus: true
+  changeTemplate:
+    - contact
+    - default
+    - culture_talents
+    - faire_mieux
+    - home
+    - jeu
+    - mentions
+    - nous
+    - publications
+    - secret_sauce
+    - secret_sauce_single
+    - vous
+    - vous_single
+    - voyagerz
+
+
+
+# Here we define an info section and a pages section (`photography`)
+
+
+tabs:
+  content:
+    icon: text
+    label: Content
+    sections:
+      content:
+        type: fields
+        fields:
+          poster:
+            label: Poster video
+            type: files
+            template: image
+            multiple: false
+          video:
+            label: Fichier vidéo
+            type: files
+            template: image
+            multiple: false
+            query: page.videos
+          Pages:
+            type : pages
+            min : 4
+            max : 4
+
+  seotab : seo
+
+
+
+

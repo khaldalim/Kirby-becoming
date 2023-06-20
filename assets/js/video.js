@@ -1,0 +1,1 @@
+$(".button-play-video").click(function(){$(".open-video").fadeIn(),$("#myVideo")[0].play()}),$("#close-video").click(function(){$(".open-video").fadeOut(),$("#myVideo")[0].pause(),$("#myVideo")[0].currentTime=0});

@@ -1,0 +1,178 @@
+Title: Sources Alma
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Sources Alma
+
+----
+
+Type-vous-single: social media
+
+----
+
+Textarea:
+
+**Améliorer l'image et la notoriété des marques du groupe **
+
+Cristaline, Mont Blanc, Rozana, .becoming accompagne les marques du groupe Alma depuis 2016 sur le social media et le web : stratégies et création de contenus
+
+----
+
+Image-hover: - file://yLHPmahE9ZWS6dUk
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://n1oMYVBp0vsCCQ0B
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://EeJKqbfGQM6TdW8u
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://TW9sel6RnbtDsy78
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: nwKhuQ0dkFxdzks0

@@ -1,0 +1,39 @@
+Title: Domyos
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Domyos
+
+----
+
+Type-vous-single: 
+
+----
+
+Textarea:
+
+**ETENDRE LE TERRITOIRE DE LA MARQUE **
+
+Installer une collection de basiques, sur un territoire habituellement préempté par les marques lifestyle, était un challenge pour cette marque à l’ADN historiquement 100% sportif.
+
+Notre job sur cette nouvelle collection : stratégie, creative concept, digital lookbook, brand & marketing content, guidelines de diffusion internationales. Chaque pays devient le relais du message clé : made for fitness and for life.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: 
+
+----
+
+Uuid: Xq8xabkrVcukRdyL

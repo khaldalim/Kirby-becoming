@@ -1,0 +1,36 @@
+title: Becoming
+
+tabs:
+  content:
+    icon: text
+    label: Content
+    sections:
+
+      header:
+        type: fields
+        fields:
+
+          Pages:
+            type: pages
+            label: Menu Header
+          menuHeadline:
+            type: text
+            label: Texte burger menu
+
+
+
+
+      pages:
+        type: pages
+        label: Pages du site
+
+
+      footer:
+        type: fields
+        fields:
+          footer_pages:
+            type: pages
+            label: Liens Footer
+
+  seotab: seo
+

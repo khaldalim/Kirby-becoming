@@ -1,0 +1,37 @@
+Title: MGEN
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: MGEN
+
+----
+
+Type-vous-single: TECH-INNO
+
+----
+
+Textarea:
+
+**ACCOMPAGNER LA MGEN DANS SES ENJEUX DE CONNAISSANCE CLIENTS ET MARCHÉS**
+
+.becoming intervient régulièrement depuis 2018 (4 ans, à vérifier) sur des études pour le compte de la MGEN et du groupe VYV. Ces études qualitatives majoritairement, souvent exploratoires, permettent à la mutuelle d’améliorer la connaissance de ses adhérents et de piloter ses projets.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: tech
+
+----
+
+Uuid: CxPAz7BWUrNZxpiK

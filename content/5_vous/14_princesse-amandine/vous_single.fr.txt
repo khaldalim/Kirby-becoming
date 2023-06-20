@@ -1,0 +1,177 @@
+Title: Princesse amandine
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Princesse amandine
+
+----
+
+Type-vous-single: digital - social media
+
+----
+
+Textarea:
+
+**AUGMENTER LA NOTORIÉTÉ ET LA PRÉFÉRENCE DE MARQUE**
+.becoming accompagne Princesse Amandine sur son discours de marque et ses nouveaux formats pour les réseaux sociaux, dans un style de communication qui parodie les comptes d’influenceuses, entre hashtags à rallonge, emphase, selfies et emojis légumes.
+
+----
+
+Image-hover: - file://w22H6tn5N2z6z0Bx
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://c0khHROQqI5tMFvE
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://rEFcTx2l9a3gV7d7
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://Mg9oTaf9UFEU2qgM
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: BGCkt5Qf1zuLc9wJ

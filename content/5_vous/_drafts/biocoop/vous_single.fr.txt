@@ -1,0 +1,37 @@
+Title: Biocoop
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Biocoop
+
+----
+
+Type-vous-single: INNO - Etudes
+
+----
+
+Textarea:
+
+**COMPRENDRE LA BIO, SES CONSOMMATEURS, ET SA CONSOMMATION**
+
+.becoming accompagne Biocoop à décrypter les évolutions des usages et des attitudes des consommateurs pour adapter ses engagements militants, sa communication, améliorer le parcours clients en magasin.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: tech
+
+----
+
+Uuid: prP9h9rfJqVGj3Uf

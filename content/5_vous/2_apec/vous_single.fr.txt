@@ -1,0 +1,177 @@
+Title: Apec
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Apec
+
+----
+
+Type-vous-single: advertising - com interne
+
+----
+
+Textarea:
+
+**CRÉER UN REFLEXE APEC**
+
+.becoming accompagne la stratégie de la marque APEC en améliorant sa considération. 
+"Donner de l’élan à votre avenir avec l'Apec" est sa nouvelle signature.
+La communication valorise la marque, ses services, son engagement vis-àvis des jeunes talents et des seniors  via des campagnes TV, radio et digitales.
+
+----
+
+Image-hover: - file://Hlwn6tUldRps5dTD
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://FWJvDABRmtiWtue2
+  fichier_video:
+    - file://niBSS72FMWfz9IQd
+- 
+  illustration_video:
+    - file://E1tS9IatGMcGr8lG
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: Z99kpjrlcik6hrw5

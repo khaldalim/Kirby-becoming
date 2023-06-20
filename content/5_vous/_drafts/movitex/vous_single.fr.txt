@@ -1,0 +1,37 @@
+Title: MOVITEX
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Movitex
+
+----
+
+Type-vous-single: ENT- TECH/inno
+
+----
+
+Textarea:
+
+**COENTREPRENDRE LES RELAIS DE CROISSANCE DE MOVITEX - LANCER UNE NOUVELLE MARQUE, USSI**
+
+D'abord dans le cadre d'un Shot Entrepreneurial, ensuite dans le cadre d'une Entreprise à Durée Déterminée, .becoming entreprend aux côtés de Movitex pour développer son business, sa marge et son chiffre d'affaires.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: entrepreneurship, tech
+
+----
+
+Uuid: iZYRBaEHzMjAg4bj

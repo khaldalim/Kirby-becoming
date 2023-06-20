@@ -1,0 +1,36 @@
+Title: Acova
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Acova
+
+----
+
+Type-vous-single: TECH-INNO/COM
+
+----
+
+Textarea:
+
+REVEILLER UNE BELLE ENDORMIE
+Quand une marque iconique de l'aménagement de la maison, challengée par la concurrence, doute de sa raison d'être, .becoming lui redonne sa fièrté en l'embarquant dans une approche prospective et collaborative pour la définition de sa nouvelle plateforme de marque et de son nouveau territoire de communication 360, b2b, b2c.
+
+----
+
+Image-hover: 
+
+----
+
+Image: 
+
+----
+
+Categories: tech
+
+----
+
+Uuid: tCNqdigM7Z6wk5Dk

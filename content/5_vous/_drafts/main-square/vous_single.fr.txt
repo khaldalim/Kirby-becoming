@@ -1,0 +1,54 @@
+Title: Main Square
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Main Square
+
+----
+
+Type-vous-single: Social Media
+
+----
+
+Textarea: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+
+----
+
+Image-hover: - file://cYUVFTNJRo07eunA
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://cYUVFTNJRo07eunA
+  fichier_video: [ ]
+
+----
+
+Categories: communication
+
+----
+
+Image: 
+
+----
+
+Title-sauce-single: Main Square Festival
+
+----
+
+Sub-title-2: Social Media
+
+----
+
+Video: 
+
+----
+
+Uuid: k00UkKf7fZw9XCYO

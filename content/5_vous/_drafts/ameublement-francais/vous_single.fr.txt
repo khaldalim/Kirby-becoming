@@ -1,0 +1,39 @@
+Title: Ameublement français
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Ameublement français
+
+----
+
+Type-vous-single: COM - pub, digital
+
+----
+
+Textarea:
+
+**VALORISER L'IMAGE DU MEUBLE  FRANÇAIS **
+
+.becoming accompagne l'Ameublement Français, organisation professionnelle, dans la promotion de la filière du meuble français via une stratégie de communication et campagne média on line et in store b2c et b2b.
+
+Discours RSE, marque employeur .. autant de sujets qui résonnent auprès des cibles et animent la profession.
+
+----
+
+Image-hover: 
+
+----
+
+Image: 
+
+----
+
+Categories: communication
+
+----
+
+Uuid: CrTLUgheGweBPbwQ

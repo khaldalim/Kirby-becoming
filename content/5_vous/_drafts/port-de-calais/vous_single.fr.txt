@@ -1,0 +1,37 @@
+Title: Port de calais
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Port de calais
+
+----
+
+Type-vous-single: COM
+
+----
+
+Textarea:
+
+**PLACE AU 1ER PORT EUROPÉEN DE PASSAGERS**
+
+Accompagnement de la mairie dans l’inauguration du port après travaux et doublement de sa taille. Stratégie de communication et mise en œuvre auprès des Calaisiens et des cibles institutionnelles. Événements, campagne de communication, RP, social media, toutes les expertises communication de .becoming ont été activées.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: communication
+
+----
+
+Uuid: pgtT9lzlWsP22zLk

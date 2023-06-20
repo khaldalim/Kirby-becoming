@@ -1,0 +1,183 @@
+Title: Bordeau chesnel
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Bordeau Chesnel
+
+----
+
+Type-vous-single: advertising - social media
+
+----
+
+Textarea:
+
+**ASSOCIER BORDEAU CHESNEL AU PLAISIR GOURMAND DE L'APÉRITIF**
+
+.becoming accompagne Bordeau Chesnel, marque centenaire des apéritifs gourmands, dans le déploiement de ses campagnes publicitaires en TV et en social media. Elle fait de cette marque populaire une incontournale de la table des français et un symbole de sa commensalité. Nous "n'avons définitivement pas les mêmes valeurs".
+
+----
+
+Image-hover: - file://XQ1kUNV3dclvY2L2
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://6CNmMBRZAYxKyQ93
+  fichier_video:
+    - file://2nFTIxdKjXytWecX
+- 
+  illustration_video: [ ]
+  fichier_video:
+    - file://3JHTTb7IL7AGarxm
+- 
+  illustration_video:
+    - file://dcqtJAqScBzV6Uqr
+  fichier_video: [ ]
+- 
+  illustration_video: [ ]
+  fichier_video:
+    - file://OlrzWaNudgd7l2Lz
+
+----
+
+Categories: communication
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: wmVeq4CE4q1L8zzd

@@ -1,0 +1,53 @@
+Title: Illicado
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Illicado
+
+----
+
+Type-vous-single: ENT - TECH/INNO - COM
+
+----
+
+Textarea:
+
+**PROJETER ILLICADO EN 2030**
+
+Après une première vision en 2013, .becoming accompagne de nouveau ILLICADO dans la construction de sa nouvelle vision à 10 ans.
+
+Notre mission est portée par une méthodologie innovante, qui embarque l’ensemble des collaborateurs dans la co-construction avec de jeunes entrepreneurs de cette vision stratégique jusqu’à la roadmap de l'année 1.
+
+Nous intervenons également pour le design de cartes cadeaux, l’influence digitale et la refonte de pages web.
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: entrepreneurship, tech, communication
+
+----
+
+Uuid: YWcnyIu9l0ltqc9Y
+
+----
+
+Addresses: 
+
+----
+
+Title-contact: 
+
+----
+
+Description: 

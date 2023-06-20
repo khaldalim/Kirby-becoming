@@ -1,0 +1,179 @@
+Title: Avril
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Avril
+
+----
+
+Type-vous-single: advertising - pack - digital
+
+----
+
+Textarea:
+
+**FAIRE D’AVRIL UNE MARQUE PLEINE DE SENS DANS L’UNIVERS DE LA COSMÉTIQUE BIO.**
+
+.becoming accompagne Avril depuis sa création en 2010 pour révéler l’essence de cette marque de cosmétiques Bio inspirée par une valeur sûre : la simplicité.
+Identité, brandbook, webdesign, packagings, concept architectural, signalétique et habillage boutiques, réseaux sociaux… révèlent au quotidien la qualité, l’accessibilité et la proximité d’Avril.
+
+----
+
+Image-hover: - file://TOIf1kbLA26eymrU
+
+----
+
+Illustration:
+
+- 
+  illustration_video:
+    - file://DR3YGExjHFkBaFsr
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://3kJKiZTaeWUe44IE
+  fichier_video: [ ]
+- 
+  illustration_video:
+    - file://VuNBUEgQOYPilUAH
+  fichier_video: [ ]
+
+----
+
+Categories: communication, tech
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: ixoHOzMWaVNLYKUu

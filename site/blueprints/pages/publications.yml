@@ -1,0 +1,143 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Publications
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon:
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page status (the home page cannot be renamed or deleted by default)
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeStatus: true
+  changeTemplate:
+    - contact
+    - default
+    - culture_talents
+    - faire_mieux
+    - home
+    - jeu
+    - mentions
+    - nous
+    - publications
+    - secret_sauce
+    - secret_sauce_single
+    - vous
+    - vous_single
+    - voyagerz
+
+
+
+
+tabs:
+  content:
+    icon: text
+    label: Content
+    sections:
+      content:
+        type: fields
+        fields:
+
+          titre_podcasts:
+            width: 1/3
+            label: Titre podcasts
+            type: text
+          titre_pop:
+            width: 1/3
+            label: Titre PoP
+            type: text
+          titre_etudes:
+            width: 1/3
+            label: Titre études
+            type: text
+          headline:
+            label: Sur titre
+            type: text
+          title_publications:
+            label: Titre contenu podcast
+            type: text
+          wysiwyg:
+            label: Wysiwyg contenu podcast
+            type: textarea
+          concerne:
+            label: Les concernés
+            type: text
+          Audios:
+            label: Audios
+            type: structure
+            fields:
+              name:
+                label: Nom de l'audio
+                type: text
+              audio:
+                label: Fichier audio
+                type: files
+                template: image
+                multiple: false
+                query: page.audio
+
+
+
+
+
+          title_publications_pop:
+            label: Titre contenu PoP
+            type: text
+          wysiwyg_pop:
+            label: Wysiwyg contenu PoP
+            type: textarea
+
+          pop_content:
+            label: Pop
+            type: structure
+            fields:
+              illustration:
+                label: Illustration
+                type: files
+                accept:
+                  mime: image/jpeg, image/png, image/svg+xml
+                multiple: false
+                query: page.images
+              link:
+                type: link
+                label: Lien
+                files:
+                  query: page.files
+                linkTypes:
+                  - url
+
+
+
+
+
+
+          title_publications_etudes:
+            label: Titre contenu études
+            type: text
+          wysiwyg_etudes:
+            label: Wysiwyg contenu études
+            type: textarea
+          etudes_content:
+            label: Pop
+            type: structure
+            fields:
+              illustration:
+                label: Illustration
+                type: files
+                accept:
+                  mime: image/jpeg, image/png, image/svg+xml
+                multiple: false
+                query: page.images
+              pdf:
+                type: files
+                accept:
+                  mime: application/pdf
+                multiple: false
+
+
+  seotab : seo
+
+
+
+
+
+

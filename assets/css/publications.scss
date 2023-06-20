@@ -1,0 +1,340 @@
+@import "variables.scss";
+
+#publications {
+  height: 100%;
+
+  //background-image: url('/assets/images/background.svg');
+  //background-repeat: no-repeat;
+  //background-size: cover;
+
+/*  background: rgb(252, 225, 218);
+  background: linear-gradient(170deg, rgba(252, 225, 218, 1) 10%, rgba(234, 233, 228, 1) 39%, rgba(163, 208, 206, 1) 87%, rgba(178, 208, 187, 1) 100%);*/
+  //background-size: 400% 400%;
+  //animation: gradient 15s ease infinite;
+
+
+  display: flex;
+  align-items: flex-start;
+
+  .publications {
+    padding-left: 55px;
+    overflow-y: scroll;
+    height: -webkit-fill-available;
+    scrollbar-width: none;
+
+  }
+
+  .publications.scrollable {
+    .scroll-arrow {
+      display: flex;
+    }
+  }
+
+  .tab-select {
+    padding-right: 67px;
+
+    padding-bottom: 44px;
+    padding-top: 46px;
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    a {
+      font-family: $font-1;
+      text-decoration: none;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 38px;
+      color: #000000;
+      opacity: 0.5;
+      transition: all 0.3s;
+    }
+
+    a.active {
+      font-weight: 800;
+      opacity: 1;
+    }
+
+    a.active:before {
+      content: url('../icons/active-tab.svg');
+      position: relative;
+      bottom: 5px;
+      margin-right: 6px;
+      transition: all 0.3s;
+    }
+
+    .separator {
+      margin-top: 40px;
+      border-top: 1px solid #0000007a;
+    }
+  }
+
+
+  .publications-tabs {
+
+    overflow-y: scroll;
+    height: -webkit-fill-available;
+    scrollbar-width: none;
+
+    .tab {
+      animation: fadeInAnimation ease 1s;
+      display: none;
+    }
+
+    .tab.active {
+      display: block;
+
+      h3 {
+        font-family: $font-1;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        margin: 0;
+        line-height: 48px;
+      }
+    }
+
+    #tab-1 {
+      padding-right: 55px;
+    }
+
+    #tab-2 img,  #tab-3 img{
+      width: 100%;
+    }
+  }
+
+
+  .content-tab-pub {
+    display: none;
+    animation: fadeInAnimation ease 1s;
+  }
+
+  .content-tab-pub.active {
+    display: block;
+  }
+
+  .content {
+    padding-right: 67px;
+
+
+    h1 {
+      font-family: $font-3;
+      margin-top: 0;
+      margin-bottom: 31px;
+      font-weight: 400;
+      font-size: 24px;
+
+    }
+
+    h2 {
+
+
+      margin-top: 0;
+      margin-bottom: 1.1rem;
+      font-family: $font-1;
+      font-weight: 800;
+      font-size: 44px;
+      line-height: 54px;
+    }
+
+    .wysiwyg {
+      font-family: $font-1;
+      font-weight: 400;
+      font-size: 1rem;;
+      line-height: 21px;
+    }
+  }
+
+  .publications, .publications-tabs {
+    flex: 1 1 50%;
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .wave-container {
+    //background: #D2CFC7;
+    padding: 125px 35px 60px;
+
+    wave {
+      overflow: hidden !important;
+    }
+  }
+
+  div#waveform {
+    /*padding: 125px 75px;*/
+    //background: #D2CFC7;
+  }
+
+  ul.audio-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .audio-list button {
+    width: 100%;
+    cursor: pointer;
+    background: transparent;
+    display: flex;
+    height: 48px;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    border-bottom: 1px solid #0000007a;
+    transition: all 0.3s;
+
+    span.play-pause {
+      svg {
+        height: 0.8rem;
+        width: 24px;
+      }
+    }
+
+    span.title-audio {
+      font-family: $font-1;
+      font-weight: 400;
+      font-size: 1.125rem;
+      line-height: 3rem;
+    }
+
+    .time-audio {
+      font-family: $font-3;
+      font-weight: 400;
+      font-size: 1.125rem;
+      line-height: 3rem;
+    }
+  }
+
+  .audio-list button:hover {
+    background: #efefef;
+  }
+
+
+  .audio-list button[data-active="1"], .audio-list button[data-active="pause"] {
+    background: #ffffff;
+  }
+
+  .images-container {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+  }
+
+  @media screen and (max-width: 768px) {
+    .publications, .publications-tabs {
+      flex: 0 0 100%;
+    }
+
+    #publications {
+
+      flex-direction: column;
+    }
+  }
+
+}
+
+@media screen and (min-width: 900px) {
+  #publications {
+    padding: initial;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+
+  #publications {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: auto;
+    flex-direction: column;
+
+
+    .content {
+      padding-right: 0;
+
+      h1 {
+        line-height: initial;
+        font-size: 1.1rem;
+      }
+
+
+      h2 {
+        padding-top: 0;
+        border-top: 0px;
+        font-size: 1.5rem;
+        line-height: 28px;
+
+      }
+
+      p {
+        font-size: 0.8rem;
+      }
+
+    }
+
+
+    .tab-select {
+
+      ul {
+
+      }
+
+      a {
+        font-size: 0.9rem;
+        line-height: initial;
+      }
+
+      a.active {
+
+      }
+
+      a.active:before {
+
+      }
+
+      .separator {
+        margin-top: 20px;
+      }
+    }
+
+    .wave-container {
+      padding: 25px 0;
+    }
+
+    .publications-tabs {
+      .tab.active h3 {
+        font-size: 24px
+      }
+    }
+
+    .audio-list button {
+      span.title-audio {
+        font-size: 1.1rem;
+      }
+
+      .audio-list button .time-audio {
+        font-size: 1.1rem;
+      }
+
+      .time-audio {
+        font-size: 0.8rem;
+      }
+    }
+
+
+    .publications-tabs #tab-1, .publications {
+      padding: initial;
+    }
+  }
+
+}
+
+
+.scroll-arrow {
+  //background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(163 208 206 / 80%) 87%, #a6d1cfe0 100%);
+}

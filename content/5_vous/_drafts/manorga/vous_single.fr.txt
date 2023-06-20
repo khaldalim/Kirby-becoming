@@ -1,0 +1,33 @@
+Title: Manorga
+
+----
+
+Sub-title: vous
+
+----
+
+Title-vous-single: Manorga
+
+----
+
+Type-vous-single: 
+
+----
+
+Textarea: 
+
+----
+
+Image-hover: 
+
+----
+
+Illustration: 
+
+----
+
+Categories: 
+
+----
+
+Uuid: TSCogGOgHGeLg6dC
